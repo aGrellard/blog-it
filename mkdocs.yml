@@ -6,12 +6,12 @@
 # the appearance using templates.
 
 # [NOTE] change this to your site name
-site_name: Blog Template
+site_name: Blog-IT
 # [NOTE] change this to your site url
-site_url: https://github.com/aGrellard
+site_url: https://agrellard.github.io/blog-it/
 # [NOTE] change these three repo settings, delete them if not desired
-repo_url: https://github.com/aGrellard
-repo_name: liang2kl/mkdocs-blogging-plugin-example
+repo_url: https://github.com/aGrellard/blog-it
+repo_name: aGrellard/blog-it
 edit_uri: ""
 
 # [NOTE] edit mkdocs configs as normal
